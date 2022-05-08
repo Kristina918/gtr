@@ -1,0 +1,179 @@
+@media screen and (max-width: 768px) {
+  .logo-360-img {
+    display: block;
+  }
+  .logo-1280-img {
+    display: none;
+  }
+  .header__left-box {
+    min-width: 163px;
+  }
+  .header__logo-box-p {
+    display: none;
+  }
+  .header__button {
+    width: 103.21px;
+    height: 36px;
+    font-size: 14px;
+  }
+  .header__button-icon {
+    width: 13.21px;
+    height: 13.21px;
+  }
+  .header-nav__breadcrumbs-box {
+    margin-top: 42px;
+    margin-bottom: 0px;
+  }
+  .info__block1-h1-360 {
+    display: block;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+  .info__h1-360 {
+    max-width: 202px;
+    max-height: 156px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 150%;
+  }
+  .info__h1-360--color-span {
+    color: #CF51CE;
+  }
+  .info__block-price {
+    margin-top: -21px;
+  }
+  .info__block1-left-p {
+    font-size: 1.125em;
+  }
+  .info-2__block-flex-right {
+    -webkit-box-orient: vertical !important;
+    -webkit-box-direction: reverse !important;
+        -ms-flex-direction: column-reverse !important;
+            flex-direction: column-reverse !important;
+  }
+  .info-2__text-flex {
+    margin-top: 85px;
+    margin-bottom: 58px;
+  }
+  .info-2__h2-768 {
+    font-size: 1.5em;
+    line-height: 150%;
+  }
+  .info-2__block-flex {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    margin-bottom: 40px;
+  }
+  .info-2__right-box-p {
+    margin-top: 34px;
+    font-size: 1.125em;
+  }
+  .info-2__right-box-p--margin-top {
+    margin-top: 10px;
+  }
+  .info-3__h2 {
+    font-size: 24px;
+    line-height: 150%;
+  }
+  .info-3__p {
+    font-size: 18px;
+    line-height: 160%;
+  }
+  .info-3__grid-box {
+    -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr;
+    -ms-grid-rows: (1fr)[4];
+        grid-template-rows: repeat(4, 1fr);
+    grid-gap: 40px;
+  }
+  .info-3__grid-content1 {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    text-align: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+  .info-3__grid-content2 {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    text-align: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+  .info-3__grid-content3 {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    text-align: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+  .info-3__grid-content4 {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    text-align: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+  .container {
+    max-width: 330px;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .container360 {
+    max-width: 345px;
+    padding-left: 15px;
+    padding-right: 0px;
+    margin: 0 auto;
+  }
+  .info__block1-h1-768 {
+    display: none;
+  }
+  .supermen-768 {
+    display: none;
+  }
+}
+/*# sourceMappingURL=media768.css.map */
